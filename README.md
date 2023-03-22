@@ -31,11 +31,11 @@ will be able to enhance my knowledge.
 
 ### :fire: Stats :
 
-![shamimbdpro's Stats](https://github-readme-stats.vercel.app/api?username=shamimbdpro&theme=onedark&show_icons=true&hide_border=true&count_private=true)
+![rajubdpro's Stats](https://github-readme-stats.vercel.app/api?username=shamimbdpro&theme=onedark&show_icons=true&hide_border=true&count_private=true)
 
-![shamimbdpro's Streak](https://github-readme-streak-stats.herokuapp.com/?user=shamimbdpro&theme=onedark&hide_border=true)
+![rajubdpro's Streak](https://github-readme-streak-stats.herokuapp.com/?user=shamimbdpro&theme=onedark&hide_border=true)
 
-![shamimbdpro's Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shamimbdpro&theme=onedark&show_icons=true&hide_border=true&layout=compact)
+![rajubdpro's Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shamimbdpro&theme=onedark&show_icons=true&hide_border=true&layout=compact)
 
 
 ## » Connect with me!
