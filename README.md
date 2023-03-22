@@ -17,7 +17,7 @@ will be able to enhance my knowledge.
 
 ## » Skills & Experiance: 
 - WordPress Customize <br> 
-- WordPress Customize <br>
+- WordPress Theme & Plugin Development <br>
 - JavaScript <br>
 - PHP <br>
 - PHP OOP <br>
@@ -27,7 +27,7 @@ will be able to enhance my knowledge.
 - Bootstrap <br>
 - jQuery <br>
 - Mysql Database <br>
-- cpanel <br>
+- cPanel <br>
 
 ### :fire: Stats :
 
