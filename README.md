@@ -22,7 +22,7 @@ Skills: HTML/ HTML5, CSS/CSS3, jQuery, JavaScript/ Bootstrap, WordPress Theme & 
 
 
 ## » Skills & Experiance: 
-_ … WordPress <br> 
+- … WordPress <br> 
 âœ… JavaScript <br>
 âœ… PHP <br>
 âœ… HTML5 / CSS3 / SASS / Bootstrap <br>
