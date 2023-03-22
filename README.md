@@ -3,9 +3,7 @@
 #### Expert in Frontend, WordPress, PHP  And Github
 
 Thank you for visit my profile. This is Raju Ahmed. I have 2+ years experience on Frontend Development and WordPress Development. I can do work as well with Core PHP. Have clear concept on PHP OOP and JavaScript. Right Now I'm seeking a job. You can reach out to me if you have any opportunity for me. I always prefer dedicating the best skill set and excellent collaboration to achieve perfect work outcomes. If you think along, we will have a blast working together! 
-
-Skills: HTML/ HTML5, CSS/CSS3, jQuery, JavaScript/ Bootstrap, WordPress Theme & Plugin Development, PHP And PHP OOP, Mysql Database, cpanel
-
+## » Additional Information: 
 - 🔭 I’m currently working on Codepopular 
 - 🌱 I’m currently learning Wordpress theme And plugin Development 
 - 👯 I’m looking to collaborate on Github 
@@ -18,12 +16,18 @@ potentiality, adaptability and skill to do something innovative and from where I
 will be able to enhance my knowledge.
 
 ## » Skills & Experiance: 
-- WordPress <br> 
+- WordPress Customize <br> 
+- WordPress Customize <br>
 - JavaScript <br>
 - PHP <br>
 - PHP OOP <br>
-- HTML5 / CSS3 / SASS / Bootstrap <br>
-
+- HTML5 <br>
+- CSS3 <br>
+- SASS <br>
+- Bootstrap <br>
+- jQuery <br>
+- Mysql Database <br>
+- cpanel <br>
 
 ## » Connect with me!
 
