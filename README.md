@@ -1,4 +1,4 @@
-![Expert in Frontend, WordPress, PHP  And Github] (https://pbs.twimg.com/profile_banners/1497804450613710849/1679497650/1500x500)
+![I am GitHub Readme Generator's creator](https://pbs.twimg.com/profile_banners/1497804450613710849/1679497650/1500x500)
 ### Hi there 👋, I'm Raju Ahmed
 #### Expert in Frontend, WordPress, PHP  And Github
 
