@@ -28,6 +28,8 @@ will be able to enhance my knowledge.
 - jQuery <br>
 - Mysql Database <br>
 - cPanel <br>
+- Phpcs <br>
+- Wpcs <br>
 
 ### :fire: Stats :
 
