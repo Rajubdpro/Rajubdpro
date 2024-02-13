@@ -24,6 +24,7 @@ will be able to enhance my knowledge.
 - HTML5 <br>
 - CSS3 <br>
 - SASS <br>
+- React JS <br>
 - Bootstrap <br>
 - jQuery <br>
 - Mysql Database <br>
